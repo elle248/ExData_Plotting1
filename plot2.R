@@ -1,6 +1,6 @@
-##Plot1.R
+##Plot2.R
 ##Running the code below will read the Electric Power Consumption data from an online location.
-##Using this data, a plot will be created showing Frequency by Global Active Power (kW)
+##Using this data, a plot will be created
 
 ##Read in the data
 temp <- tempfile()
